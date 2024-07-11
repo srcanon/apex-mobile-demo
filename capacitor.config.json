@@ -1,0 +1,11 @@
+{
+  "appId": "APPID REDACTED FOR REVIEW",
+  "appName": "Cloud Drive Agent",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
